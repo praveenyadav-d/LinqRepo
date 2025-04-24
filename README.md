@@ -1,2 +1,0 @@
-# LinqRepo
-QA Analyst Repo
